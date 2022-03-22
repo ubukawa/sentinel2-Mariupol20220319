@@ -1,0 +1,9 @@
+{
+    "version":8,
+"sources":{
+"r": {"type": "raster","tiles": ["https://ubukawa.github.io/sentinel2-Mariupol20220319/20220319/true-clr/{z}/{x}/{y}.png"],"attribution": "True color composite (4-3-2) - Copernicus Sentinel data (2022, EUROPEAN COMMISSION).<br>Observed on 2022-03-19","tileSize": 256,"maxzoom": 14}},
+"layers":[
+{"id": "sentinel2","type":"raster","source":"r"}
+],
+"center":[37.5904099, 47.1949570]  
+}
